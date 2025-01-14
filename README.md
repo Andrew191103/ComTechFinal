@@ -1,5 +1,3 @@
-# ComTechFinal
-
 # Python Code Corrector
 
 ## Overview
